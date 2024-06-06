@@ -76,6 +76,10 @@ body {
   border-radius: 10px;
 }
 
+.box i.fas.fa-heart {
+  font-size: 20px;
+}
+
 .boxtext {
   font-size: 20px;
 }
